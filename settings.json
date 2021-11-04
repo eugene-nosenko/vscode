@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+"prettier.trailingComma": "none",
+"prettier.printWidth": 100,
+"typescript.format.enable": false,
+"diffEditor.ignoreTrimWhitespace": false,
+"editor.bracketPairColorization.enabled": true
+}
