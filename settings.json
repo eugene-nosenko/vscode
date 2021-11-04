@@ -9,5 +9,6 @@
 "prettier.printWidth": 100,
 "typescript.format.enable": false,
 "diffEditor.ignoreTrimWhitespace": false,
-"editor.bracketPairColorization.enabled": true
+"editor.bracketPairColorization.enabled": true,
+"telemetry.telemetryLevel": "off"
 }
